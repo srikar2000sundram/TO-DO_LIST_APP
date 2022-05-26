@@ -33,6 +33,10 @@ function App() {
           ))}
         </ul>
       </div>
+
+      <div className="footer">
+        <h1>Created by Srikar ❤️</h1>
+      </div>
     </div>
   );
 }
